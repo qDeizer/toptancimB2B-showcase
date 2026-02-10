@@ -4,7 +4,7 @@
 
 Bu proje; ürün/varyant yönetimi, müşteri bazlı fiyatlandırma (etiket), çoklu sepet ile sipariş oluşturma, sipariş onay/teslim akışı ve finansal işlemlerin karşılıklı onayı gibi temel senaryoları **uçtan uca** göstermeyi hedefler.
 
-> **Not:** Bu repo bir **demo** niteliğindedir. Üretim ortamı (production) ihtiyaçları için güvenlik, ölçeklenebilirlik, loglama/izleme, hata yönetimi, test kapsamı ve CI/CD gibi başlıklar ayrıca ele alınmalıdır.
+> **Not:** Bu repo bir **demo** niteliğindedir. Üretim ortamı (production) ihtiyaçları için güvenlik, ölçeklenebilirlik, loglama/izleme, hata yönetimi, test kapsamı ve CI/CD gibi başlıklar ayrıca ele alınmalıdır. link üzerinden projeyi deneyebilirsiniz.
 
 ---
 
